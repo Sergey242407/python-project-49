@@ -12,3 +12,6 @@ publish:
 
 package-install:
 	python3 -m pipx install dist/*.whl
+
+lint:
+	poetry run flake8 brain_games
