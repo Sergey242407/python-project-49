@@ -13,6 +13,9 @@ publish:
 package-install:
 	python3 -m pipx install dist/*.whl
 
+package-uninstall:
+	pipx uninstall hexlet-code
+
 lint:
 	poetry run flake8 brain_games
 
