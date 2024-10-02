@@ -5,3 +5,4 @@
 [Asciinema brain-calc](https://asciinema.org/a/4PF7H6WK4fH4nRmJwstN9UaZp)
 [Asciinema brain-gcd](https://asciinema.org/a/m9JjarJQWaYfn6o3lnlSlptY0)
 [Asciinema brain-progression](https://asciinema.org/a/zSRaYrxGeNFLXSt5reyz4Pi7B)
+[Asciinema brain-prime](https://asciinema.org/a/GG328e81gNeyopcvv2UfoTIUD)
